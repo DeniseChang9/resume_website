@@ -1,0 +1,37 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "resume_website",
+    "section": "",
+    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "denise_chang.html",
+    "href": "denise_chang.html",
+    "title": "Denise Chang",
+    "section": "",
+    "text": "Hi! My name is Denise and I am a second year student at the University of Toronto pursuing a Bachelor of Science in Mathematics and Statistics."
+  },
+  {
+    "objectID": "home.html",
+    "href": "home.html",
+    "title": "Denise Chang",
+    "section": "",
+    "text": "Hi! My name is Denise and I am a second year student at the University of Toronto pursuing a Bachelor of Science in Mathematics and Statistics.\nI am interested in a wide range of topics, but my heart goes to the study of number theory and of arithmetic geometry.\nOutside of lectures, you can mostly find me around campus, engaging in all sorts of extracurricular activities. My main commitment this year is being the Communications Director at VUSAC’s Commuter Commission. I’ve met the greatest people there and loved every part of my experience working with this team.\nI also enjoy doing volunteer work. During the academic season, I volunteer at the Math Outreach Office by helping out with invigilating, processing and marking competitions, such as the COMC and the Kangaroo Contest. I am also a volunteer at the Cat’s Eye, a student lounge at Victoria College, where I get the chance to meet amazing people and host awesome events.\nI have volunteered two summers in a row at Otakuthon, an anime and manga convention held annually in Montreal, Canada. In 2022 I was a general volunteer and in 2023 I was hired as a staff in the registration department. I am particularly proud of this last involvement since it was the first time I got involved with a community external to school, and it was a big step out of my comfort zone!"
+  },
+  {
+    "objectID": "contact.html",
+    "href": "contact.html",
+    "title": "Contact",
+    "section": "",
+    "text": "If you have any questions or would like to chat, you can reach me by email at ddleletan@gmail.com"
+  }
+]
